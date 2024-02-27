@@ -6,11 +6,16 @@
 
 A public repository for publishing of projects completed by Sean Allen (UPI: sall160) in Stats 220 during Semester 1, 2024.
 
+**You are welcome to:**
+* Watch, star, and pull this repo for non-commercial use.
+* Contact me directly with any questions you may have.
+
+
 ## Projects
 
-* [Project 1](https://github.com/seanallen555/stats220/tree/main/Project1)
-* **TBD**
-* **TBD**
+1. [Project 1](https://github.com/seanallen555/stats220/tree/main/Project1)
+2. **TBD**
+3. **TBD**
 
 ## Copyright Notice
 
