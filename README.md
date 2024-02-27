@@ -13,3 +13,6 @@ A public repository for publishing of projects completed by Sean Allen (UPI: sal
 * **TBD**
 
 ## Copyright Notice
+
+**Work in this repository is the copyright of Sean Allen and/or the University of Auckland. Work may only be redistributed for educational or research purposes with explicit permission from the copyright owner.
+For more information, see: [Copyright Act 1994](https://www.legislation.govt.nz/act/public/1994/0143/latest/DLM345634.html)**
